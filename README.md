@@ -207,27 +207,6 @@ It will cover the following few things.
 
 ---
 
-### Scalability and Availability:
----
-It will cover the following few things.
-- Regional Computing.
-- Cloud Scale.
-- Cloud Availability.
----
-
-- In the context of regional cloud computing, a region refers to a geographical area where a cloud service provider, such as Amazon Web Services (AWS), Microsoft Azure, or Google Cloud Platform (GCP), has established data centers and infrastructure to offer its services.
-- Scaling can be exampled as dividing the workload (one vm) on multiple other workloads (more than one vm).
-- Being available when needed is known as Availability.
-- Availability zones == Data Centers
-- Now suppose that if your data centers fails you have other availability zones that your machine can use to run properly.
-
-![image](Images/image7.png)
-
-- If for any reason the region isn't working then the work load can be shifted to an other region.
-
----
-
-
 ### Cloud Platform Services
 ---
 What will be covered in it.
@@ -266,6 +245,26 @@ What will be covered.
 -  Microsoft 365 provides Low-Code and No-Code Customization.
 - G Suite has similar offers has Microsoft 365.
 - Collaboration Tools -- Slack, Zoom, Meet, Microsoft Team.
+
+---
+
+### Scalability and Availability:
+---
+It will cover the following few things.
+- Regional Computing.
+- Cloud Scale.
+- Cloud Availability.
+---
+
+- In the context of regional cloud computing, a region refers to a geographical area where a cloud service provider, such as Amazon Web Services (AWS), Microsoft Azure, or Google Cloud Platform (GCP), has established data centers and infrastructure to offer its services.
+- Scaling can be exampled as dividing the workload (one vm) on multiple other workloads (more than one vm).
+- Being available when needed is known as Availability.
+- Availability zones == Data Centers
+- Now suppose that if your data centers fails you have other availability zones that your machine can use to run properly.
+
+![image](Images/image7.png)
+
+- If for any reason the region isn't working then the work load can be shifted to an other region.
 
 ---
 ---
